@@ -14,6 +14,9 @@ The observation space is a continuous space represented by Box(4,).
 
 
 Q.The final average reward you calculated for the random agent in Exercise 2.
+Average reward over 1000 episodes: 0.0100
+
+
 
 
 
